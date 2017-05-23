@@ -1,0 +1,7 @@
+Definations
+
+Variables-can be words or numbers or any combination that are defined and passed around the code
+Strings-any characters that are not defined as a specific number or boolean value. these get assigned to variables.
+Function-hold code and separate it from the rest of your code. can hold unique variables that cant be accessed from outside the code.
+if statements-statements that ask whether the statement is true or false and runs code depending on the true or false value.
+boolean values-tested against variables to determine whether the statement is true or false then runs code accordingly. always either true or false. 
